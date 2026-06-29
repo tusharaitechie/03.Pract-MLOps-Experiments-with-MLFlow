@@ -1,0 +1,23 @@
+artifact_path: file:D:/Practice/GitRepoOwnPractice/03.Pract-MLOps-Experiments-with-MLFlow/mlruns/2/models/m-c88686bd07d6481e8097fac80f17e30e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-c88686bd07d6481e8097fac80f17e30e
+model_size_bytes: 120736
+model_uuid: m-c88686bd07d6481e8097fac80f17e30e
+prompts: null
+run_id: bc46dd284a5140edb3379c2abc7497cd
+utc_time_created: '2026-06-29 12:19:12.285561'

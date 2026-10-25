@@ -351,6 +351,6 @@ If you found this repository helpful, consider giving it a ⭐ on GitHub.
 
 # 👨‍💻 Author
 
-**Tushar **
+**Tushar**
 
 If you like this project, don't forget to ⭐ the repository.
